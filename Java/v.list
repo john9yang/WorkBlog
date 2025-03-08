@@ -2,5 +2,5 @@
 <!DOCTYPE vars SYSTEM "https://resources.jetbrains.com/writerside/1.0/vars.dtd">
 <vars>
     <var name="product" value="Java"/>
-    <var name="secrets.ALGOLIA_KEY" value="358ce6eb998f49c2232c10cf3a1102f0"/>
+    <var name="SECRETS_ALGOLIA_KEY" value="358ce6eb998f49c2232c10cf3a1102f0"/>
 </vars>
