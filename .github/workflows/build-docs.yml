@@ -11,10 +11,10 @@ permissions:
   pages: write
 
 env:
-  INSTANCE: 'Java/java'
+  INSTANCE: 'BMDreamGarden/garden'
   DOCKER_VERSION: '243.22562'
   ALGOLIA_APP_NAME: 'XG05568BHT'
-  ALGOLIA_INDEX_NAME: 'JAVA_INDEX'
+  ALGOLIA_INDEX_NAME: 'Java_English'
   CONFIG_JSON_PRODUCT: 'WorkBlog'
   CONFIG_JSON_VERSION: 'main'
 
