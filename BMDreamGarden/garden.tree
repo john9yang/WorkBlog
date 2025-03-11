@@ -6,13 +6,17 @@
                  name="garden"
                  start-page="welcome.md">
 
+    <toc-element topic="welcome.md"/>
     <toc-element topic="Java-Tech.md">
+        <toc-element topic="Java异步并发提效招式一之CompletableFuture.md"/>
         <toc-element topic="Java内存区域.md"/>
         <toc-element topic="Java内存模型.md"/>
         <toc-element topic="JVM垃圾回收算法.md"/>
         <toc-element topic="Java运行时数据区域.md"/>
     </toc-element>
-    <toc-element topic="welcome.md"/>
+    <toc-element topic="Redis.md">
+        <toc-element topic="什么是CAP理论.md"/>
+    </toc-element>
     <toc-element topic="English.md">
         <toc-element topic="starter.md"/>
         <toc-element topic="intro-your-job.md"/>
