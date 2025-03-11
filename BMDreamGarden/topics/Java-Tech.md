@@ -1,3 +1,3 @@
-# Java Tech
+# JavaTech
 
 Start typing here...

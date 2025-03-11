@@ -41,3 +41,7 @@ JDK5发布的CMS收集器是第一款真正意义上支持并发的垃圾收集�
 
 ## ZGC收集器
 染色指针技术(Colored Pointer), 把标记信息记在引用对象的指针上。
+
+## JVM调优
+### JDK8
+server模式下默认的垃回收器:UseParalleGC(Paralle Scavenge + Serial Old)
