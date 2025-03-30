@@ -22,8 +22,8 @@
         <toc-element topic="Introduce-your-company.md"/>
         <toc-element topic="starter.md"/>
         <toc-element topic="intro-your-job.md"/>
+        <toc-element topic="introduce-your-company-to-your-client.md"/>
     </toc-element>
-    <toc-element topic="introduce-your-company-to-your-client.md"/>
     <toc-element topic="场景设计.md">
         <toc-element topic="推荐系统设计.md"/>
         <toc-element topic="防止接口被恶意调用，使用秘钥提升安全性，并通过滑动窗口实现限流.md"/>
