@@ -8,6 +8,7 @@
 
     <toc-element topic="welcome.md"/>
     <toc-element topic="Java-Tech.md">
+        <toc-element topic="模版设计模式.md"/>
         <toc-element topic="基于Spring-AOP-redission实现方法级别的分布式锁通用组件.md"/>
         <toc-element topic="Java异步并发提效招式一之CompletableFuture.md"/>
         <toc-element topic="Java内存区域.md"/>
