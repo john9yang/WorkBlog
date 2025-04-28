@@ -30,4 +30,7 @@
         <toc-element topic="推荐系统设计.md"/>
         <toc-element topic="防止接口被恶意调用，使用秘钥提升安全性，并通过滑动窗口实现限流.md"/>
     </toc-element>
+    <toc-element topic="SQL.md">
+        <toc-element topic="Group-Concat-将多行记录合并成一行.md"/>
+    </toc-element>
 </instance-profile>
